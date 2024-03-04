@@ -1,0 +1,36 @@
+,id,ticker,empresa,sector,sede,entrada
+0,1,ANA,Acciona,Industrial Services,Alcobendas,2015
+1,2,ANE,Acciona Energía,Energy,Alcobendas,2022
+2,3,ACX,Acerinox,Resources,Madrid,2015
+3,4,ACS,ACS,Industrial Services,Madrid,1998
+4,5,AENA,Aena,Logistic,Madrid,2015
+5,6,AMS,Amadeus,High Tech,Madrid,2011
+6,7,MTS,Arcelor,Resources,Ciudad de Luxemburgo,2009
+7,8,SAB,Banco Sabadell,Banking,Alicante,2004
+8,9,SAN,Banco Santander,Banking,Santander,1992
+9,10,BKT,Bankinter,Banking,Madrid,1992
+10,11,BBVA,BBVA,Banking,Bilbao,1992
+11,12,CABK,CaixaBank,Banking,Valencia,2009
+12,13,CLNX,Cellnex,Telco,Madrid,2016
+13,14,ENG,Enagas,Energy,Madrid,2003
+14,15,ELE,Endesa,Energy,Madrid,1992
+15,16,FER,Ferrovial,Industrial Services,Madrid,1999
+16,17,FDR,Fluidra,Industrial Services,San Cugat del Vallés,2021
+17,18,GRF,Grifols,Pharma,Barcelona,2008
+18,19,IAG,IAG,Logistic,Madrid / Londres,2011
+19,20,IBE,Iberdrola,Energy,Bilbao,1992
+20,21,ITX,Inditex,Retail,Arteijo,2001
+21,22,IDR,Indra,High Tech,Alcobendas,1999
+22,23,COL,Inmobiliaria Colonial,Investment,Madrid,2007
+23,24,LOG,Logista,Logistic,Leganés,2022
+24,25,MAP,Mapfre,Insurance,Majadahonda,1992
+25,26,MEL,Melia,Travel,Palma de Mallorca,2016
+26,27,MRL,Merlin Properties,Investment,Madrid,2015
+27,28,NTGY,Naturgy,Energy,Madrid,2018
+28,29,RED,REE,Energy,Alcobendas,2000
+29,30,REP,Repsol,Energy,Madrid,1992
+30,31,ROVI,Laboratorios Rovi,Pharma,Madrid,2021
+31,32,SCYR,Sacyr,Industrial Services,Madrid,2022
+32,33,SLR,Solaria,Energy,Madrid,2020
+33,34,TEF,Telefonica,Telco,Madrid,1992
+34,35,UNI,Unicaja,Banking,Málaga,2022
