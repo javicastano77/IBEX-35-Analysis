@@ -43,7 +43,7 @@ El proyecto está dividido en 4 objetivos principales:
 
 Los pasos que han marcado el proyecto son los siguientes:
 
-* i. Descargar los datos: descargar la serie temporal para cada empresa.
+* i. Extraccion de los datos: descargar la serie temporal para cada empresa.
 * ii. Unificación de los datos: consolidar en un único _dataset_ los datos de las 35 empresas.
 * iii. Inclusión de nuevas variables: añadir columna de empresa y sector para poder identificar cada serie temporal.
 * iv. identificación de la correlación entre variables: identificar qué variables tienen una mayor explicación para predecir la tendencia del precio de la acción.
