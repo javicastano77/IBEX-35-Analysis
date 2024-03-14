@@ -6,9 +6,9 @@
 En la actualidad muchas son las personas que se han aventurado a descubrir el complejo mundo de las inversiones, tratando de averiguar qué palancas se deben activar para tener un retorno elevado en sus activos líquidos. En España, contamos con el Ibex35, un índice de gran reconocimiento, incluso para personas totalmente ajenas al mundo financiero. Este índice está conformado por las 35 empresas que se sitúan en el Top de cada ciclo anual.
 
 Bajo este marco, muchas veces el retorno esperado busca objetivos cortoplacistas, una realidad que se vuelve impracticable si tenemos en cuenta cómo funciona la economía a nivel global y local, y todas aquellas variables exógenas que afectan a la evolución de los valores del mercado. 
-Por tanto, el gran interrogante que se plantea es 
+Por tanto, el gran interrogante que se plantea es: 
 
-**¿realmente esas personas han realizado un análisis previo para comprender cómo se mueve el mercado de valores?** De ser así, **¿están aplicando el método correcto para obtener un retorno aceptable?**
+**¿Realmente esas personas han realizado un análisis previo para comprender cómo se mueve el mercado de valores?** De ser así, **¿están aplicando el método correcto para obtener un retorno aceptable?**
 
 > El principal problema del inversor,
 > e incluso su peor enemigo,
