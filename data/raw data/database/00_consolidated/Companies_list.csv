@@ -1,0 +1,36 @@
+id,ticker,empresa,sector,sede,entrada
+1,ANA,Acciona,Industrial Services,Alcobendas,2015
+2,ANE,Acciona Energía,Energy,Alcobendas,2022
+3,ACX,Acerinox,Resources,Madrid,2015
+4,ACS,ACS,Industrial Services,Madrid,1998
+5,AENA,Aena,Travel,Madrid,2015
+6,AMS,Amadeus,High Tech,Madrid,2011
+7,MTS,Arcelor,Resources,Ciudad de Luxemburgo,2009
+8,SAB,Banco Sabadell,Banking,Alicante,2004
+9,SAN,Banco Santander,Banking,Santander,1992
+10,BKT,Bankinter,Banking,Madrid,1992
+11,BBVA,BBVA,Banking,Bilbao,1992
+12,CABK,CaixaBank,Banking,Valencia,2009
+13,CLNX,Cellnex,Telco,Madrid,2016
+14,ENG,Enagas,Energy,Madrid,2003
+15,ELE,Endesa,Energy,Madrid,1992
+16,FER,Ferrovial,Industrial Services,Madrid,1999
+17,FDR,Fluidra,Industrial Services,San Cugat del Vallés,2021
+18,GRF,Grifols,Pharma,Barcelona,2008
+19,IAG,IAG,Logistic,Madrid / Londres,2011
+20,IBE,Iberdrola,Energy,Bilbao,1992
+21,ITX,Inditex,Retail,Arteijo,2001
+22,IDR,Indra,High Tech,Alcobendas,1999
+23,COL,Inmobiliaria Colonial,Investment,Madrid,2007
+24,LOG,Logista,Logistic,Leganés,2022
+25,MAP,Mapfre,Insurance,Majadahonda,1992
+26,MEL,Melia,Travel,Palma de Mallorca,2016
+27,MRL,Merlin Properties,Investment,Madrid,2015
+28,NTGY,Naturgy,Energy,Madrid,2018
+29,RED,REE,Energy,Alcobendas,2000
+30,REP,Repsol,Energy,Madrid,1992
+31,ROVI,Laboratorios Rovi,Pharma,Madrid,2021
+32,SCYR,Sacyr,Industrial Services,Madrid,2022
+33,SLR,Solaria,Energy,Madrid,2020
+34,TEF,Telefonica,Telco,Madrid,1992
+35,UNI,Unicaja,Banking,Málaga,2022
