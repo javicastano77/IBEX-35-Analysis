@@ -18,7 +18,7 @@ Por tanto, el gran interrogante que se plantea es:
 
 Los datos del proyecto fueron extraídos de [Yahoo Finance](https://es.finance.yahoo.com/) la sección financiera de Yahoo en donde se pueden buscar [series histórcias](https://es.finance.yahoo.com/quote/IAG.MC/history) de diferentes empresas de todo el mundo. 
 
-En los datos descargados de cada serie temporal podermos encontrar las siguientes variables
+En los datos descargados de cada serie temporal podermos encontrar las siguientes variables:
 
 * **Date**: día de la serie temporal.
 * **Open**: valor de la acción en la apertura del mercado.
@@ -46,11 +46,11 @@ Los pasos que han marcado el proyecto son los siguientes:
 * i. Extraccion de los datos: descargar la serie temporal para cada empresa.
 * ii. Unificación de los datos: consolidar en un único _dataset_ los datos de las 35 empresas.
 * iii. Inclusión de nuevas variables: añadir columna de empresa y sector para poder identificar cada serie temporal.
-* iv. identificación de la correlación entre variables: identificar qué variables tienen una mayor explicación para predecir la tendencia del precio de la acción.
-* v. elección de modelo: testear modelos de regresión para identificar cuál de ellos tiene un error más bajo para cada empresa.
-* vi. obtención de predicciones: lanzar el mejor modelo para cada empresa y una vez realizado el entrenamiento, obtener la predicción.
-* vii. construcción escenario de rentabilidad: construir diferentes escenarios de inversión con cantidad inicial, haciendo trading en el momento más óptimo.
-* viii. comparación de realidad vs predicción: analizar cómo se comportan los datos finales con respecto a la realidad.
+* iv. Identificación de la correlación entre variables: identificar qué variables tienen una mayor explicación para predecir la tendencia del precio de la acción.
+* v. Elección de modelo: testear modelos de regresión para identificar cuál de ellos tiene un error más bajo para cada empresa.
+* vi. Obtención de predicciones: lanzar el mejor modelo para cada empresa y una vez realizado el entrenamiento, obtener la predicción.
+* vii. Construcción escenario de rentabilidad: construir diferentes escenarios de inversión con cantidad inicial, haciendo trading en el momento más óptimo.
+* viii. Comparación de realidad vs predicción: analizar cómo se comportan los datos finales con respecto a la realidad.
 
 ## 4. Uso
 
@@ -66,11 +66,11 @@ La información se encuentra recogida en:
 
 ## 5. Conclusiones
 
-Tras la realización del proyecto las principales conclusiones obtenidas son:
+Tras la realización del proyecto, las principales conclusiones obtenidas son:
 
 1 - La tendencia en los valores de las acciones varía significativamente entre empresa y sector, por lo que se hace necesario estudiar cada una de manera individual.
 
-2 - El testo del modelo de Machine Learning, sin introducir un ajuste (variables exógenas, nº de lgas) se base en utilizar el día anterior como predicción del siguiente día.
+2 - El testo del modelo de _Machine Learning_, sin introducir un ajuste (variables exógenas, número óptimo de lags) se base en utilizar el día anterior como predicción del siguiente día.
 
 3- Los factores externos (inflación, crisis, aconntecimientos internacionales) modifican notablemente los valores de las acciones, dificultando establecer una tendencia estable en un período tan reducido de tiempo.
 
@@ -78,7 +78,7 @@ Tras la realización del proyecto las principales conclusiones obtenidas son:
 
 1 - Introducir variables exógenas para refinar el modelo, como por ejemplo: precio del oro, precio del acero para empresas de construcción, tasa de rentabilidad para el sector bancario, etc.
 
-2 - Realizar pruebas del modelo aumentando o disminuyendo el lag inicial de 5 días para la serie temporal
+2 - Realizar pruebas del modelo, aumentando o disminuyendo el lag inicial de 5 días para la serie temporal.
 
 3- Establecer criterios más precisos para el escenario de trading, como por ejemplo: comprar tras caída consecutiva de 4 días en el valor de una acción.
 
